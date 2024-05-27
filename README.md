@@ -1,6 +1,6 @@
-# Big Selenium Task
+# Welcome to my Big Selenium Task 💁‍♀️
 This project involves Selenium tests designed to assess the functionality of a webpage accessible on the internet.
-# Tests 
+# Tests 📈
 1. TestContactFormSubmission
 2. TestCookies
 3. TestHistoryPage
@@ -8,13 +8,13 @@ This project involves Selenium tests designed to assess the functionality of a w
 5. TestLoginAccountPage
 6. TestMultiplePages
 7. TestSearchPage
-# Tests Result 
+# Tests Result ✅
 1. Tests
 ![image](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/3733bde2-1270-482f-8a12-e2661e05790e)
 2. Standard Output
-![image (2)](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/3d2fd92f-382b-472d-ab22-9c9e268fe90e)
+![image (3)](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/1008f3a3-073e-49b1-967a-dc52ef267bd7)
 You can reach this report through: /build/reports/tests/test/classes/SeleniumTest.html.
-# Installation and Setup 
+# Installation and Setup 🐰
 1. Install Docker, Gradle, and Java.
 2. Clone the repository: `https://github.com/RahmaniManel/Big-Selenium-Task.git`.
 3. Under your project directory, execute the command: `docker-compose up`.
