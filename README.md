@@ -16,7 +16,7 @@ This project involves Selenium tests designed to assess the functionality of a w
 You can reach this report through: /build/reports/tests/test/classes/SeleniumTest.html.
 # Installation and Setup 
 1. Install Docker, Gradle, and Java.
-2. Clone the repository: `<repository_URL>`.
+2. Clone the repository: `https://github.com/RahmaniManel/Big-Selenium-Task.git`.
 3. Under your project directory, execute the command: `docker-compose up`.
 4. Open another terminal and execute the command: `docker exec -it selenium_testenv bash`.
 5. Navigate to the tests folder under the directory `selenium@...:/home/selenium` using the command: `cd tests`.
