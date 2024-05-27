@@ -12,7 +12,7 @@ This project involves Selenium tests designed to assess the functionality of a w
 1. Tests
 ![image](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/3733bde2-1270-482f-8a12-e2661e05790e)
 2. Standard Output
-![image (1)](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/cb657779-ac4f-4f2d-8d7d-3e9f5b6c3f4e)
+![image (2)](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/3d2fd92f-382b-472d-ab22-9c9e268fe90e)
 You can reach this report through: /build/reports/tests/test/classes/SeleniumTest.html.
 # Installation and Setup 
 1. Install Docker, Gradle, and Java.
