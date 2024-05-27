@@ -9,10 +9,12 @@ This project involves Selenium tests designed to assess the functionality of a w
 6. TestMultiplePages
 7. TestSearchPage
 # Tests Result ✅
-1. Tests
+# 1. Tests
 ![image](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/3733bde2-1270-482f-8a12-e2661e05790e)
-2. Standard Output
+
+# 2. Standard Output
 ![image (3)](https://github.com/RahmaniManel/Big-Selenium-Task/assets/82101546/1008f3a3-073e-49b1-967a-dc52ef267bd7)
+
 You can reach this report through: /build/reports/tests/test/classes/SeleniumTest.html.
 # Installation and Setup 🐰
 1. Install Docker, Gradle, and Java.
